@@ -10,4 +10,5 @@
 | [1148-article-views-i](https://github.com/Sushmapurella13/SQL/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Sushmapurella13/SQL/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Sushmapurella13/SQL/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Sushmapurella13/SQL/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
