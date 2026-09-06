@@ -18,5 +18,6 @@
 | [1683-invalid-tweets](https://github.com/Sushmapurella13/SQL/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Sushmapurella13/SQL/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Sushmapurella13/SQL/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sushmapurella13/SQL/tree/master/1757-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/Sushmapurella13/SQL/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
