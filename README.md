@@ -25,4 +25,16 @@
 | [1729-find-followers-count](https://github.com/Sushmapurella13/SQL/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sushmapurella13/SQL/tree/master/1757-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/Sushmapurella13/SQL/tree/master/1965-employees-with-missing-information) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Sushmapurella13/SQL/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Sushmapurella13/SQL/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Sushmapurella13/SQL/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
